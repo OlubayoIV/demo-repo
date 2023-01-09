@@ -1,4 +1,4 @@
 # Demo
 
 Some description.
-Another one.
+Another.
